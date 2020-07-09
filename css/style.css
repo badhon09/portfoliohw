@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;900&display=swap');
+
+*{
+    font-family: 'Poppins',sans-serif;
+    
+}
+
+.navbar{
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    background-color: white;
+}
+.header-menu .navbar-brand{
+    padding: 5px 35px;
+    
+    
+} 
+.header-menu .navbar-nav{
+    padding: 5px 35px;
+    
+    
+} 
+.nav-link:hover{
+    color: blue;
+}
+.header-menu .nav-link{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.home-area{
+    background: white;
+    padding-top: 35px;
+    
+}
+.description{
+padding-top: 40px;
+
+}
+.description h2{
+    color: #2B3856;
+}
+.description p{
+    color: #2B3856;
+}
+
+.services-area{
+    background-image: url("../pics/background.jpg");
+    height: 20em;
+    align-items: center;
+    padding-left: 15px;
+
+}
+.service{
+    padding-top: 60px;
+    padding-bottom: 25px;
+    
+}
+.part{
+    padding-top: 2em;
+}
+.card{
+    height: 6em;
+}
+.card-group{
+    
+}
+.card-body{
+    align-items: center;
+}
+.msg{
+    padding-top: 50px;
+}
+.foot-btn{
+    margin: auto;
+    padding-left: 20px;
+}
+i{
+    color: blue;
+    font-size: 55px;
+    margin-right: 15px;
+}
+   
+.con{
+    font-size: 15px;
+    padding-left: 40px;
+    color: blue;
+}
+.foot{
+    height: 5em;
+    background-color: black;
+}
+.foot h6{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
